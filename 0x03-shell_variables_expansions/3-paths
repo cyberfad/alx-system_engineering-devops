@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" "$PATH" |tr ':' '\n' |echo "$(wc -l)
+printf "%s\n" "$PATH" |tr ':' '\n' |echo "$(wc -l)"
